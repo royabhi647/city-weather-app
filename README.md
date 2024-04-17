@@ -2,6 +2,8 @@
 
 This web application is built using React and JavaScript. It displays information about cities in a table format and allows users to view weather forecasts for selected cities.
 
+### [live preview](https://main--abhii-weather.netlify.app/)
+
 ## Features
 
 ### Display Cities in a Table
@@ -23,6 +25,7 @@ This web application is built using React and JavaScript. It displays informatio
    - Axios (for API requests)
    - Tailwind
    - React Router (for navigation)
+   - Intersection Observer
 
 ### Credits
    - GeoNames API: https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000
